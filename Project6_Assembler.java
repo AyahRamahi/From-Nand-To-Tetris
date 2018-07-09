@@ -1,6 +1,8 @@
 /*
     An assembler implemented in Java that translates the assembly language of the course (HACK language) 
     to machine language (binary code) that the HACK platform of the course can excute .
+    PS : This program was implemented to give the binary code for a program written in HACK language and it's not a
+    part of project6 itself.
 */
 import java.io.*;
 import java.util.*;
