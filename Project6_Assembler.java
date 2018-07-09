@@ -1,3 +1,7 @@
+/*
+    An assembler implemented in Java that translates the assembly language of the course (HACK language) 
+    to machine language (binary code) that the HACK platform of the course can excute .
+*/
 import java.io.*;
 import java.util.*;
 
